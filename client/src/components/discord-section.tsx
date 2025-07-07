@@ -77,7 +77,7 @@ export default function DiscordSection() {
                   </div>
                 </div>
                 <a 
-                  href="https://discord.gg/CXdR3GQVzR" 
+                  href="https://discord.gg/HhTDR8DJQF" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-[hsl(188,88%,37%)] hover:bg-[hsl(185,84%,44%)] px-8 py-4 rounded-lg text-lg font-semibold transition-all hover-glow inline-flex items-center space-x-3"
